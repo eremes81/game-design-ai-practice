@@ -1,15 +1,3 @@
----
-title: "19.1 비전을 결정의 채점표로 — decisions/ 26개를 LLM에 걸어 보다"
-part: 19
-chapter: 1
-status: v3
-written: 2026-05-24
-revised: 2026-06-06 (v3 전면 재작성 — 비전-결정 부합 워크드 트랜스크립트 + mermaid + 권한 위임 통합)
-author: 이민수
-ip_check: done
-version: v3
----
-
 # 19.1 비전을 결정의 채점표로 — decisions/ 26개를 LLM에 걸어 보다
 
 > 1차 독자: 중규모(10\~50인) 팀을 이끄는 디자인 디렉터·리드 기획자

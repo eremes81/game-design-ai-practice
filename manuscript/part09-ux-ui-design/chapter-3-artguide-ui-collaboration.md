@@ -1,15 +1,3 @@
----
-title: "9.3 ArtGuide/06_UI 협업 — 기획자는 md로 쓰고, 아트팀은 html만 본다"
-part: 9
-chapter: 3
-status: v3
-written: 2026-05-24
-revised: 2026-06-06 (v3 전면 재작성 — AI 워크드 트랜스크립트 + 4단 sync mermaid + SVG + 수치 정직성)
-author: 이민수
-ip_check: done
-version: v3
----
-
 # 9.3 ArtGuide/06_UI 협업 — 기획자는 md로 쓰고, 아트팀은 html만 본다
 
 > 1차 독자: 비-기획 직군(아트)과 매일 협업하는 UX·UI 기획자 (중규모 팀)

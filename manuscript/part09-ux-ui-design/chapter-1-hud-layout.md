@@ -1,15 +1,3 @@
----
-title: "9.1 HUD 스크린샷을 lint에 건다 — 시선 이탈·대비 미달을 AI가 잡는 자리"
-part: 9
-chapter: 1
-status: v3
-written: 2026-05-24
-revised: 2026-06-06 (v3 전면 재작성 — 스크린샷 lint 워크드 트랜스크립트 + 가로 SVG + 공개표준 grounding + 수치 정직성)
-author: 이민수
-ip_check: done
-version: v3
----
-
 # 9.1 HUD 스크린샷을 lint에 건다 — 시선 이탈·대비 미달을 AI가 잡는 자리
 
 > 1차 독자: HUD·UI를 책임지는 UX 기획자 (중규모(10\~50인) 팀)

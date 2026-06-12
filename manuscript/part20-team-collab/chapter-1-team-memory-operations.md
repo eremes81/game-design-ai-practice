@@ -1,15 +1,3 @@
----
-title: "20.1 1인 DD가 5인분 협업 메모리를 운영한다 — team_memory 시스템"
-part: 20
-chapter: 1
-status: v3
-written: 2026-05-24
-revised: 2026-06-06 (v3 전면 재작성 — 5인 team_memory 셀링포인트 승격 + 워크드 트랜스크립트 + 도식)
-author: 이민수
-ip_check: done
-version: v3
----
-
 # 20.1 1인 DD(Design Director, 디자인 디렉터)가 5인분 협업 메모리를 운영한다 — team_memory 시스템
 
 > 본 장에서 'DD'는 디자인 디렉터를 가리킨다.

@@ -1,15 +1,3 @@
----
-title: "13.2 KPI 정의·추적 — 정의는 사람이, 이상신호 진단은 AI가"
-part: 13
-chapter: 2
-status: v3
-written: 2026-05-24
-revised: 2026-06-06 (v3 전면 재작성 — 워크드 트랜스크립트 + KPI 파이프라인 mermaid + Active 정의 diff 검출 + 수치 정직성)
-author: 이민수
-ip_check: done
-version: v3
----
-
 # 13.2 KPI 정의·추적 — 정의는 사람이, 이상신호 진단은 AI가
 
 > 1차 독자: 운영 지표를 책임지는 라이브/데이터 기획자 (중규모(10\~50인) 팀)

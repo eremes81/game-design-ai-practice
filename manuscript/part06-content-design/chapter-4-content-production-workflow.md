@@ -1,15 +1,3 @@
----
-title: "6.4 콘텐츠 양산 워크플로 — 여러 generator를 한 라인으로 묶는다"
-part: 6
-chapter: 4
-status: v3
-version: v3
-written: 2026-05-24
-revised: 2026-06-06
-author: 이민수
-ip_check: done
----
-
 # 6.4 콘텐츠 양산 워크플로 — 여러 generator를 한 라인으로 묶는다
 
 세 도구를 각자 완성한 그 주, 나는 한 자리에서 도시 generator를 돌리고, NPC generator를 돌리고, 아이템 generator를 돌렸다. 셋 다 각자 잘 작동했다. 도시는 7곳이 나왔고, NPC는 110명이 나왔고, 무기는 60개가 나왔다. 그런데 며칠 뒤 검수에 앉아서야 나는 같은 함정을 세 번 밟았다는 걸 알았다.

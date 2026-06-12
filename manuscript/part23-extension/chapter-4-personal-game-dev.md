@@ -1,15 +1,3 @@
----
-title: "Part 23 · 4장. 혼자 만든 퍼즐 게임 — Critter Sort 실전기"
-part: 23
-chapter_in_part: 4
-status: v3
-written: 2026-05-24
-revised: 2026-06-06 (v3 전면 재작성)
-version: v3
-author: 이민수
-ip_check: done
----
-
 # Part 23 · 4장. 혼자 만든 퍼즐 게임 — Critter Sort 실전기
 
 토요일 오후, 와이프가 휴대폰으로 색깔 맞추기 퍼즐을 하고 있었다. 엉킨 실타래를 같은 색 바구니로 분류하는 *Yarn Fever*라는 게임이었다. 한 판이 끝나면 "또 같은 거네" 하고 닫았다. 갱신이 없으니 금세 질린 것이다.

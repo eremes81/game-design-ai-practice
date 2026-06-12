@@ -1,15 +1,3 @@
----
-title: "9.2 스킬 버튼 배열 — 배치안 3개를 AI가 짜고, lint가 떨어뜨린다"
-part: 9
-chapter: 2
-status: v3
-written: 2026-05-30
-revised: 2026-06-06 (v3 전면 재작성 — AI 워크드 트랜스크립트 + 버튼 배열 SVG + lint 통과율 + 수치 정직성, 가로 양손 그립 전환)
-author: 이민수
-ip_check: done
-version: v3
----
-
 # 9.2 스킬 버튼 배열 — 배치안 3개를 AI가 짜고, lint가 떨어뜨린다
 
 > 1차 독자: 모바일 우선 액션·MMORPG의 UX·전투 기획자 (중규모 팀)

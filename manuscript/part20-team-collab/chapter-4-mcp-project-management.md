@@ -1,15 +1,3 @@
----
-title: "20.4 MCP 프로젝트 관리 — 협업툴·문서를 LLM에 연결하다"
-part: 20
-chapter: 4
-status: v3
-version: v3
-written: 2026-05-24
-revised: 2026-06-06
-author: 이민수
-ip_check: done
----
-
 # 20.4 MCP 프로젝트 관리 — 협업툴·문서를 LLM에 연결하다
 
 화요일 출근 직후, 9시 12분. 나는 협업툴 보드를 열기도 전에 Claude Code 창에 한 줄을 친다.

@@ -1,15 +1,3 @@
----
-title: "Part 21 · 3장. self-improving 루프 닫기"
-part: 21
-chapter_in_part: 3
-status: v3
-version: v3
-written: 2026-05-24
-revised: 2026-06-06
-author: 이민수
-ip_check: done
----
-
 # Part 21 · 3장. self-improving 루프 닫기
 
 > 회고에서 시작된 사이클이 다시 회고로 돌아오는가. 닫히지 않으면 그것은 메모일 뿐 시스템이 아니다.

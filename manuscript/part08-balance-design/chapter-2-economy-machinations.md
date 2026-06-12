@@ -1,15 +1,3 @@
----
-title: "8.2 경제 모델을 Machinations로 — 인플레이션을 회의 대신 시뮬로 잡는다"
-part: 8
-chapter: 2
-status: v3
-written: 2026-05-30
-revised: 2026-06-06 (v3 전면 재작성 — 경제 모델링 워크드 트랜스크립트 + 경제 순환 mermaid + 수치 정직성)
-author: 이민수
-ip_check: done
-version: v3
----
-
 # 8.2 경제 모델을 Machinations로 — 인플레이션을 회의 대신 시뮬로 잡는다
 
 > 1차 독자: 라이브 경제를 책임지는 MMORPG 밸런스/시스템 기획자 (중규모(10\~50인) 팀)

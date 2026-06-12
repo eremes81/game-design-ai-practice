@@ -1,15 +1,3 @@
----
-title: "6.3 NPC Persona와 Squad — 인형 박물관에서 작은 사회로"
-part: 6
-chapter: 3
-status: v3
-written: 2026-05-24
-revised: 2026-06-06 (v3 전면 재작성 — Squad 일관성 검증 워크드 트랜스크립트 + Persona→Squad mermaid + 수치 정직성)
-author: 이민수
-ip_check: done
-version: v3
----
-
 # 6.3 NPC Persona와 Squad — 인형 박물관에서 작은 사회로
 
 > 1차 독자: NPC·사냥터 콘텐츠를 책임지는 MMORPG 기획자 (중규모(10\~50인) 팀)

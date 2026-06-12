@@ -1,13 +1,3 @@
----
-title: "24.4 출처 추적·data lineage"
-part: 24
-chapter: 4
-status: v3
-version: v3
-revised: 2026-06-06
-author: 이민수
----
-
 # 24.4 출처 추적·data lineage
 
 > 자료를 의심하는 순간은 늘 너무 늦게 온다. 라이브 빌드에 잘못된 수치가 입력된 다음에야 "이거 어디서 나온 거지"를 묻게 된다.

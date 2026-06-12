@@ -1,15 +1,3 @@
----
-title: "Part 23 · 1장. Wrapper·Cascade·Junction 패턴"
-part: 23
-chapter_in_part: 1
-status: v3
-version: v3
-written: 2026-05-24
-revised: 2026-06-06
-author: 이민수
-ip_check: done
----
-
 # Part 23 · 1장. Wrapper·Cascade·Junction 패턴
 
 > 도구를 늘리지 말고, 도구의 도구를 만들라. 글로벌 12개 진입점 뒤에 본체 48개를 숨기는 2계층 구조와, 그 정합을 사람 손 없이 유지하는 자동화 이야기다.
