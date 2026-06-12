@@ -37,7 +37,7 @@
 
 ## 전체 목차
 
-> **24부 + 부록 A~N + 에필로그 · 100개 챕터.** 부록은 `manuscript/appendix/`, 판권지는 [`manuscript/_colophon.md`](manuscript/_colophon.md).
+> **24부 + 부록 A~N + 에필로그 · 100개 챕터.** 부록은 [`manuscript/appendix/`](manuscript/appendix), 판권지는 [`manuscript/_colophon.md`](manuscript/_colophon.md).
 
 ### 1부 · 도입
 
