@@ -154,7 +154,7 @@ NPC가 종일 한 자리에 서 있으면 다시 인형이 된다. 룰북이 동
 > [PASS] 관계 밀도: 2건 (권장 2, 충족)
 > [WARN] voice 다양성: scholarly 계열 3/5 — quest_giver·lore_keeper·bystander_2
 >        가 voice_profile 코사인 유사도 0.83 (임계 0.80 초과). 평준화 위험.
-> [WARN] 동선 충돌: 14:00\~16:00 구간 merchant·bystander_1 좌표 반경 1.5m 중첩
+> [WARN] 동선 충돌: 14:00~16:00 구간 merchant·bystander_1 좌표 반경 1.5m 중첩
 > [FAIL] 관계 노출: 관계 2건이 정의됐으나, 5명 대사 어디에도 다른 멤버 언급 0건.
 >        관계가 데이터에만 존재 — 게임 내 가시성 0.
 > ```

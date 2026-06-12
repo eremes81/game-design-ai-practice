@@ -163,8 +163,8 @@ silvermark의 메타데이터를 넣으면, `rules.py`는 사냥터 4곳(`city_0
 > **[3단 lint 출력] (실제 형식)**
 >
 > ```
-> [PASS] 분량 검사: 소개문 7줄 (기준 6\~8)
-> [PASS] 보상 범위: hg_0\~hg_3 reward_curve 표준 범위 내
+> [PASS] 분량 검사: 소개문 7줄 (기준 6~8)
+> [PASS] 보상 범위: hg_0~hg_3 reward_curve 표준 범위 내
 > [WARN] 이름 중복: "Mira Kost" — city_014_riverhold의 "Mira Veldt"와
 >        성(Kost/Veldt) 상이하나 이름(Mira) 동일. forbidden_names 근접 충돌.
 > [PASS] 금기 어휘: tone_manifesto 위반 0건
