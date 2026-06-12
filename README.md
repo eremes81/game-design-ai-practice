@@ -6,7 +6,7 @@
 [![ISBN](https://img.shields.io/badge/ISBN-979--11--12--21479--9-blue.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 [![부크크에서 구매](https://img.shields.io/badge/BOOKK-%EC%A2%85%EC%9D%B4%EC%B1%85%20%EA%B5%AC%EB%A7%A4-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 
-**🌐 번역판**: [English — AI Workflow for Game Designers](https://github.com/eremes81/game-design-ai-practice-en) · [日本語 — ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja)
+**🌐 언어판:** **한국어 — 원서** · [English — AI Workflow for Game Designers](https://github.com/eremes81/game-design-ai-practice-en) · [日本語 — ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja)
 
 <img src="https://raw.githubusercontent.com/eremes81/game-design-ai-practice/main/assets/cover.png" alt="표지" width="320">
 
