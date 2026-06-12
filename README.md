@@ -6,6 +6,8 @@
 [![ISBN](https://img.shields.io/badge/ISBN-979--11--12--21479--9-blue.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 [![부크크에서 구매](https://img.shields.io/badge/BOOKK-%EC%A2%85%EC%9D%B4%EC%B1%85%20%EA%B5%AC%EB%A7%A4-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 
+**🌐 번역판**: [English — AI Workflow for Game Designers](https://github.com/eremes81/game-design-ai-practice-en) · [日本語 — ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja)
+
 <img src="assets/cover.png" alt="표지" width="320">
 
 24년 차 게임 기획자이자 디자인 디렉터가, 생성형 AI(Claude Code)를 **매일의 실무**에 들이는 법을 정리한 실전 안내서입니다. 이론이나 전망이 아니라 설치·계정·요금 같은 첫 화면부터 시스템 설계·전투·내러티브·레벨·밸런스·UX·라이브 운영, 그리고 회의록을 결정으로 바꾸기·검증 게이트·비용 관리·저작권까지, 한 작업을 손으로 끝까지 따라갈 수 있게 묶었습니다.
