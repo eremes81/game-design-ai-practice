@@ -30,14 +30,14 @@
 | 출판 | 부크크(BOOKK) · 종이책(흑백) |
 | ISBN | 979-11-12-21479-9 |
 | 출간일 | 2026-06-11 |
-| 분량 | 876쪽 · 24부 + 부록 A~N + 에필로그 |
+| 분량 | 876쪽 · 24부 + 부록 A\~N + 에필로그 |
 | 구매 | **[부크크 서점에서 보기](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** |
 
 종이책 구매는 위 부크크 링크에서 가능합니다. 이 저장소는 같은 책의 **한국어판 원고(마크다운 소스)**를 라이선스에 따라 공개한 것입니다.
 
 ## 전체 목차
 
-> **24부 + 부록 A~N + 에필로그 · 100개 챕터.** 부록은 [`manuscript/part99-appendix/`](manuscript/part99-appendix), 판권지는 [`manuscript/_colophon.md`](manuscript/_colophon.md).
+> **24부 + 부록 A\~N + 에필로그 · 100개 챕터.** 부록은 [`manuscript/part99-appendix/`](manuscript/part99-appendix), 판권지는 [`manuscript/_colophon.md`](manuscript/_colophon.md).
 
 ### 1부 · 도입
 
@@ -69,7 +69,7 @@
 
 ### 5부 · 내러티브
 
-- [5.1 NarrativeDocs Layer 0~4 구조](manuscript/part05-narrative-design/chapter-1-narrative-docs-layers.md)
+- [5.1 NarrativeDocs Layer 0\~4 구조](manuscript/part05-narrative-design/chapter-1-narrative-docs-layers.md)
 - [5.2 세계관 → 캐릭터 → 퀘스트 일관성 검증](manuscript/part05-narrative-design/chapter-2-consistency-verification.md)
 - [5.3 AI 보조 내러티브 작성](manuscript/part05-narrative-design/chapter-3-ai-assisted-narrative.md)
 - [5.4 대사·보이스 일관성](manuscript/part05-narrative-design/chapter-4-dialogue-voice-consistency.md)
