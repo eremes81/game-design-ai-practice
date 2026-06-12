@@ -55,7 +55,7 @@
 
 ### 3부 · 시스템 기획
 
-- [3.1 시스템 기획자의 일과 Layer 좌표](manuscript/part03-system-design/chapter-9-system-designer-and-layer.md)
+- [3.1 시스템 기획자의 일과 Layer 좌표](manuscript/part03-system-design/chapter-09-system-designer-and-layer.md)
 - [3.2 스키마 우선 — $스키마가 데이터보다 먼저다](manuscript/part03-system-design/chapter-10-schema-first.md)
 - [3.3 관계도 시각화 — 의존성을 눈으로 본다](manuscript/part03-system-design/chapter-11-relation-map.md)
 - [3.4 AI 보조 시스템 설계 프롬프트 패턴](manuscript/part03-system-design/chapter-12-ai-assist-prompt-patterns.md)
