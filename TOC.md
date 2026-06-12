@@ -22,7 +22,7 @@
   * [4.3 콤보·캔슬·입력 큐 — 경로를 열거하고 검증한다](manuscript/part04-combat-design/chapter-15-combo-cancel-input.md)
   * [4.4 AI 보조 전투 시뮬레이션·검증](manuscript/part04-combat-design/chapter-16-ai-combat-simulation.md)
 * [05부 · 내러티브](wikidocs/part05.md)
-  * [5.1 NarrativeDocs Layer 0\~4 구조](manuscript/part05-narrative-design/chapter-1-narrative-docs-layers.md)
+  * [5.1 NarrativeDocs Layer 0~4 구조](manuscript/part05-narrative-design/chapter-1-narrative-docs-layers.md)
   * [5.2 세계관 → 캐릭터 → 퀘스트 일관성 검증](manuscript/part05-narrative-design/chapter-2-consistency-verification.md)
   * [5.3 AI 보조 내러티브 작성](manuscript/part05-narrative-design/chapter-3-ai-assisted-narrative.md)
   * [5.4 대사·보이스 일관성](manuscript/part05-narrative-design/chapter-4-dialogue-voice-consistency.md)
