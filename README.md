@@ -19,7 +19,7 @@
 ## 📖 읽기 시작
 
 - **[서문 · 읽는 법](manuscript/_front-matter.md)** — 이 책을 어떻게 읽을지부터
-- **[1.0 시작하기 전에 — 설치·계정·요금·터미널 생존키트](manuscript/part1-foundation/chapter-0-setup-survival-kit.md)** — 첫 화면부터 따라가기
+- **[1.0 시작하기 전에 — 설치·계정·요금·터미널 생존키트](manuscript/part01-foundation/chapter-0-setup-survival-kit.md)** — 첫 화면부터 따라가기
 - 본문의 도식은 ` ```mermaid ` 코드로 작성되어 **GitHub에서 그대로 렌더링**됩니다. 아래 목차에서 챕터를 클릭하면 바로 읽힙니다.
 
 ## 정식 출간
@@ -37,69 +37,69 @@
 
 ## 전체 목차
 
-> **24부 + 부록 A~N + 에필로그 · 100개 챕터.** 부록은 [`manuscript/appendix/`](manuscript/appendix), 판권지는 [`manuscript/_colophon.md`](manuscript/_colophon.md).
+> **24부 + 부록 A~N + 에필로그 · 100개 챕터.** 부록은 [`manuscript/part99-appendix/`](manuscript/part99-appendix), 판권지는 [`manuscript/_colophon.md`](manuscript/_colophon.md).
 
 ### 1부 · 도입
 
-- [1.0 시작하기 전에 — 설치·계정·요금·터미널 생존키트](manuscript/part1-foundation/chapter-0-setup-survival-kit.md)
-- [1.1 게임 기획자의 Claude Code 첫 만남](manuscript/part1-foundation/chapter-1-first-encounter.md)
-- [1.2 모델·토큰·하네스 — 한 작업의 토큰이 흐르는 길](manuscript/part1-foundation/chapter-2-model-token-harness.md)
-- [1.3 메모리·권한·세팅 인프라](manuscript/part1-foundation/chapter-3-memory-permission-setting.md)
+- [1.0 시작하기 전에 — 설치·계정·요금·터미널 생존키트](manuscript/part01-foundation/chapter-0-setup-survival-kit.md)
+- [1.1 게임 기획자의 Claude Code 첫 만남](manuscript/part01-foundation/chapter-1-first-encounter.md)
+- [1.2 모델·토큰·하네스 — 한 작업의 토큰이 흐르는 길](manuscript/part01-foundation/chapter-2-model-token-harness.md)
+- [1.3 메모리·권한·세팅 인프라](manuscript/part01-foundation/chapter-3-memory-permission-setting.md)
 
 ### 2부 · 정보 아키텍처
 
-- [2.1 YAML 프론트매터 — 모든 문서를 데이터로](manuscript/part2-info-architecture/chapter-4-yaml-frontmatter.md)
-- [2.2 페이지별 Atom — 1 문서 1 결정의 해부](manuscript/part2-info-architecture/chapter-5-page-atom.md)
-- [2.3 Layer 설계 — 게임 시스템 추상화](manuscript/part2-info-architecture/chapter-6-layer-design.md)
-- [2.4 온톨로지와 wikilink 그래프 — 의미 화살표를 검증한다](manuscript/part2-info-architecture/chapter-7-ontology-graph.md)
+- [2.1 YAML 프론트매터 — 모든 문서를 데이터로](manuscript/part02-info-architecture/chapter-4-yaml-frontmatter.md)
+- [2.2 페이지별 Atom — 1 문서 1 결정의 해부](manuscript/part02-info-architecture/chapter-5-page-atom.md)
+- [2.3 Layer 설계 — 게임 시스템 추상화](manuscript/part02-info-architecture/chapter-6-layer-design.md)
+- [2.4 온톨로지와 wikilink 그래프 — 의미 화살표를 검증한다](manuscript/part02-info-architecture/chapter-7-ontology-graph.md)
 
 ### 3부 · 시스템 기획
 
-- [3.1 시스템 기획자의 일과 Layer 좌표](manuscript/part3-system-design/chapter-9-system-designer-and-layer.md)
-- [3.2 스키마 우선 — $스키마가 데이터보다 먼저다](manuscript/part3-system-design/chapter-10-schema-first.md)
-- [3.3 관계도 시각화 — 의존성을 눈으로 본다](manuscript/part3-system-design/chapter-11-relation-map.md)
-- [3.4 AI 보조 시스템 설계 프롬프트 패턴](manuscript/part3-system-design/chapter-12-ai-assist-prompt-patterns.md)
+- [3.1 시스템 기획자의 일과 Layer 좌표](manuscript/part03-system-design/chapter-9-system-designer-and-layer.md)
+- [3.2 스키마 우선 — $스키마가 데이터보다 먼저다](manuscript/part03-system-design/chapter-10-schema-first.md)
+- [3.3 관계도 시각화 — 의존성을 눈으로 본다](manuscript/part03-system-design/chapter-11-relation-map.md)
+- [3.4 AI 보조 시스템 설계 프롬프트 패턴](manuscript/part03-system-design/chapter-12-ai-assist-prompt-patterns.md)
 
 ### 4부 · 전투 기획
 
-- [4.1 전투 기획자와 Layer — 타격감은 어느 칸에 들어가는가](manuscript/part4-combat-design/chapter-13-combat-designer-and-layer.md)
-- [4.2 전투 Look & Feel — 손맛을 데이터로 잡는 자리](manuscript/part4-combat-design/chapter-14-look-and-feel.md)
-- [4.3 콤보·캔슬·입력 큐 — 경로를 열거하고 검증한다](manuscript/part4-combat-design/chapter-15-combo-cancel-input.md)
-- [4.4 AI 보조 전투 시뮬레이션·검증](manuscript/part4-combat-design/chapter-16-ai-combat-simulation.md)
+- [4.1 전투 기획자와 Layer — 타격감은 어느 칸에 들어가는가](manuscript/part04-combat-design/chapter-13-combat-designer-and-layer.md)
+- [4.2 전투 Look & Feel — 손맛을 데이터로 잡는 자리](manuscript/part04-combat-design/chapter-14-look-and-feel.md)
+- [4.3 콤보·캔슬·입력 큐 — 경로를 열거하고 검증한다](manuscript/part04-combat-design/chapter-15-combo-cancel-input.md)
+- [4.4 AI 보조 전투 시뮬레이션·검증](manuscript/part04-combat-design/chapter-16-ai-combat-simulation.md)
 
 ### 5부 · 내러티브
 
-- [5.1 NarrativeDocs Layer 0~4 구조](manuscript/part5-narrative-design/chapter-1-narrative-docs-layers.md)
-- [5.2 세계관 → 캐릭터 → 퀘스트 일관성 검증](manuscript/part5-narrative-design/chapter-2-consistency-verification.md)
-- [5.3 AI 보조 내러티브 작성](manuscript/part5-narrative-design/chapter-3-ai-assisted-narrative.md)
-- [5.4 대사·보이스 일관성](manuscript/part5-narrative-design/chapter-4-dialogue-voice-consistency.md)
+- [5.1 NarrativeDocs Layer 0~4 구조](manuscript/part05-narrative-design/chapter-1-narrative-docs-layers.md)
+- [5.2 세계관 → 캐릭터 → 퀘스트 일관성 검증](manuscript/part05-narrative-design/chapter-2-consistency-verification.md)
+- [5.3 AI 보조 내러티브 작성](manuscript/part05-narrative-design/chapter-3-ai-assisted-narrative.md)
+- [5.4 대사·보이스 일관성](manuscript/part05-narrative-design/chapter-4-dialogue-voice-consistency.md)
 
 ### 6부 · 콘텐츠 기획
 
-- [6.1 절차적 콘텐츠 생성과 AI — 두 축이 교차하는 한 칸](manuscript/part6-content-design/chapter-1-procedural-content-ai.md)
-- [6.2 city_hunting_generator — 도시 30개를 4주에 만든다](manuscript/part6-content-design/chapter-2-city-hunting-generator.md)
-- [6.3 NPC Persona와 Squad — 인형 박물관에서 작은 사회로](manuscript/part6-content-design/chapter-3-npc-persona-squad-pipeline.md)
-- [6.4 콘텐츠 양산 워크플로 — 여러 generator를 한 라인으로 묶는다](manuscript/part6-content-design/chapter-4-content-production-workflow.md)
+- [6.1 절차적 콘텐츠 생성과 AI — 두 축이 교차하는 한 칸](manuscript/part06-content-design/chapter-1-procedural-content-ai.md)
+- [6.2 city_hunting_generator — 도시 30개를 4주에 만든다](manuscript/part06-content-design/chapter-2-city-hunting-generator.md)
+- [6.3 NPC Persona와 Squad — 인형 박물관에서 작은 사회로](manuscript/part06-content-design/chapter-3-npc-persona-squad-pipeline.md)
+- [6.4 콘텐츠 양산 워크플로 — 여러 generator를 한 라인으로 묶는다](manuscript/part06-content-design/chapter-4-content-production-workflow.md)
 
 ### 7부 · 레벨 디자인
 
-- [7.1 절차적 레벨 디자인 마스터](manuscript/part7-level-design/chapter-1-procedural-level-design-master.md)
-- [7.2 BehaviorTree 에디터 — 사람과 AI가 함께 BT json을 편집하고 검증하는 워크드 트랜스크립트](manuscript/part7-level-design/chapter-2-behaviortree-editor.md)
-- [7.3 던전·필드 패턴 라이브러리](manuscript/part7-level-design/chapter-3-dungeon-field-pattern-library.md)
+- [7.1 절차적 레벨 디자인 마스터](manuscript/part07-level-design/chapter-1-procedural-level-design-master.md)
+- [7.2 BehaviorTree 에디터 — 사람과 AI가 함께 BT json을 편집하고 검증하는 워크드 트랜스크립트](manuscript/part07-level-design/chapter-2-behaviortree-editor.md)
+- [7.3 던전·필드 패턴 라이브러리](manuscript/part07-level-design/chapter-3-dungeon-field-pattern-library.md)
 
 ### 8부 · 밸런스
 
-- [8.1 전투 밸런스 공식 — 결정론이라는 룰북의 자리](manuscript/part8-balance-design/chapter-1-combat-balance-formula.md)
-- [8.2 경제 모델을 Machinations로 — 인플레이션을 회의 대신 시뮬로 잡는다](manuscript/part8-balance-design/chapter-2-economy-machinations.md)
-- [8.3 Damage Simulator — 명세 DPS와 시뮬 산출이 갈라지던 날](manuscript/part8-balance-design/chapter-3-damage-simulator-2008.md)
-- [8.4 AI 보조 밸런스 시뮬레이션](manuscript/part8-balance-design/chapter-4-ai-balance-simulation.md)
-- [8.5 PvP·경쟁 밸런스 — 승률 매트릭스·매치메이킹·서버 권위](manuscript/part8-balance-design/chapter-5-pvp-competitive-balance.md)
+- [8.1 전투 밸런스 공식 — 결정론이라는 룰북의 자리](manuscript/part08-balance-design/chapter-1-combat-balance-formula.md)
+- [8.2 경제 모델을 Machinations로 — 인플레이션을 회의 대신 시뮬로 잡는다](manuscript/part08-balance-design/chapter-2-economy-machinations.md)
+- [8.3 Damage Simulator — 명세 DPS와 시뮬 산출이 갈라지던 날](manuscript/part08-balance-design/chapter-3-damage-simulator-2008.md)
+- [8.4 AI 보조 밸런스 시뮬레이션](manuscript/part08-balance-design/chapter-4-ai-balance-simulation.md)
+- [8.5 PvP·경쟁 밸런스 — 승률 매트릭스·매치메이킹·서버 권위](manuscript/part08-balance-design/chapter-5-pvp-competitive-balance.md)
 
 ### 9부 · UX/UI
 
-- [9.1 HUD 스크린샷을 lint에 건다 — 시선 이탈·대비 미달을 AI가 잡는 자리](manuscript/part9-ux-ui-design/chapter-1-hud-layout.md)
-- [9.2 스킬 버튼 배열 — 배치안 3개를 AI가 짜고, lint가 떨어뜨린다](manuscript/part9-ux-ui-design/chapter-2-skill-ui-button-column.md)
-- [9.3 ArtGuide/06_UI 협업 — 기획자는 md로 쓰고, 아트팀은 html만 본다](manuscript/part9-ux-ui-design/chapter-3-artguide-ui-collaboration.md)
+- [9.1 HUD 스크린샷을 lint에 건다 — 시선 이탈·대비 미달을 AI가 잡는 자리](manuscript/part09-ux-ui-design/chapter-1-hud-layout.md)
+- [9.2 스킬 버튼 배열 — 배치안 3개를 AI가 짜고, lint가 떨어뜨린다](manuscript/part09-ux-ui-design/chapter-2-skill-ui-button-column.md)
+- [9.3 ArtGuide/06_UI 협업 — 기획자는 md로 쓰고, 아트팀은 html만 본다](manuscript/part09-ux-ui-design/chapter-3-artguide-ui-collaboration.md)
 
 ### 10부 · QA
 
@@ -198,21 +198,21 @@
 
 ### 부록 · 에필로그
 
-- [에필로그 — 질문창에서 게임 디자인룸으로](manuscript/appendix/epilogue.md)
-- [부록 A. 회사 PC 시스템 상세 인벤토리](manuscript/appendix/appendix-A-company-inventory.md)
-- [부록 B. 도구 차용 절차 (회사에서 개인으로 범용화하기)](manuscript/appendix/appendix-B-tool-adoption-procedure.md)
-- [부록 C. 권한·세팅 레퍼런스](manuscript/appendix/appendix-C-permissions-settings.md)
-- [부록 D. R&D 문서 명명·Frontmatter 표준](manuscript/appendix/appendix-D-naming-frontmatter-standard.md)
-- [부록 E. MCP 서버 카탈로그 (게임 기획 관점)](manuscript/appendix/appendix-E-mcp-server-catalog.md)
-- [부록 F. 사례 색인 (회사 / 개인 PC)](manuscript/appendix/appendix-F-case-index.md)
-- [부록 G. 운영 스크립트 사례집](manuscript/appendix/appendix-G-operation-scripts.md)
-- [부록 H. 과거 작업 자료 재활용](manuscript/appendix/appendix-H-past-work-reuse.md)
-- [부록 I. BehaviorTree 에디터 사례 (심화)](manuscript/appendix/appendix-I-behaviortree-editor.md)
-- [부록 J. 약어·용어집](manuscript/appendix/appendix-J-glossary.md)
-- [부록 K. 다른 LLM·하네스로 이식하기](manuscript/appendix/appendix-K-tool-neutral-porting.md)
-- [부록 L. 팀 도입 TCO·온보딩 워크시트](manuscript/appendix/appendix-L-team-adoption-tco.md)
-- [부록 M. 차원 벡터·임베딩 — 게임 기획자를 위한 직관](manuscript/appendix/appendix-M-embedding-intuition.md)
-- [부록 N. 강의용 15주 진도표·난이도 가이드](manuscript/appendix/appendix-N-course-syllabus.md)
+- [에필로그 — 질문창에서 게임 디자인룸으로](manuscript/part99-appendix/epilogue.md)
+- [부록 A. 회사 PC 시스템 상세 인벤토리](manuscript/part99-appendix/appendix-A-company-inventory.md)
+- [부록 B. 도구 차용 절차 (회사에서 개인으로 범용화하기)](manuscript/part99-appendix/appendix-B-tool-adoption-procedure.md)
+- [부록 C. 권한·세팅 레퍼런스](manuscript/part99-appendix/appendix-C-permissions-settings.md)
+- [부록 D. R&D 문서 명명·Frontmatter 표준](manuscript/part99-appendix/appendix-D-naming-frontmatter-standard.md)
+- [부록 E. MCP 서버 카탈로그 (게임 기획 관점)](manuscript/part99-appendix/appendix-E-mcp-server-catalog.md)
+- [부록 F. 사례 색인 (회사 / 개인 PC)](manuscript/part99-appendix/appendix-F-case-index.md)
+- [부록 G. 운영 스크립트 사례집](manuscript/part99-appendix/appendix-G-operation-scripts.md)
+- [부록 H. 과거 작업 자료 재활용](manuscript/part99-appendix/appendix-H-past-work-reuse.md)
+- [부록 I. BehaviorTree 에디터 사례 (심화)](manuscript/part99-appendix/appendix-I-behaviortree-editor.md)
+- [부록 J. 약어·용어집](manuscript/part99-appendix/appendix-J-glossary.md)
+- [부록 K. 다른 LLM·하네스로 이식하기](manuscript/part99-appendix/appendix-K-tool-neutral-porting.md)
+- [부록 L. 팀 도입 TCO·온보딩 워크시트](manuscript/part99-appendix/appendix-L-team-adoption-tco.md)
+- [부록 M. 차원 벡터·임베딩 — 게임 기획자를 위한 직관](manuscript/part99-appendix/appendix-M-embedding-intuition.md)
+- [부록 N. 강의용 15주 진도표·난이도 가이드](manuscript/part99-appendix/appendix-N-course-syllabus.md)
 
 ---
 
