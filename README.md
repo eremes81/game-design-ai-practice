@@ -202,7 +202,7 @@
 - [부록 A. 회사 PC 시스템 상세 인벤토리](manuscript/appendix/appendix-A-company-inventory.md)
 - [부록 B. 도구 차용 절차 (회사에서 개인으로 범용화하기)](manuscript/appendix/appendix-B-tool-adoption-procedure.md)
 - [부록 C. 권한·세팅 레퍼런스](manuscript/appendix/appendix-C-permissions-settings.md)
-- [전투 글로벌 쿨다운 0.5초 통일](manuscript/appendix/appendix-D-naming-frontmatter-standard.md)
+- [부록 D. R&D 문서 명명·Frontmatter 표준](manuscript/appendix/appendix-D-naming-frontmatter-standard.md)
 - [부록 E. MCP 서버 카탈로그 (게임 기획 관점)](manuscript/appendix/appendix-E-mcp-server-catalog.md)
 - [부록 F. 사례 색인 (회사 / 개인 PC)](manuscript/appendix/appendix-F-case-index.md)
 - [부록 G. 운영 스크립트 사례집](manuscript/appendix/appendix-G-operation-scripts.md)
