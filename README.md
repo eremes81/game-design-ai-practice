@@ -37,6 +37,10 @@
 
 종이책 구매는 위 부크크 링크에서 가능합니다. 이 저장소는 같은 책의 **한국어판 원고(마크다운 소스)**를 라이선스에 따라 공개한 것입니다.
 
+## 🎁 출시 기념 할인 (영문판 Leanpub)
+
+> **[👉 LAUNCH30 쿠폰으로 영문판 $13.30에 구매](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30)** — 정가 $19에서 30% 할인 · 무제한 · 만료 없음
+
 ## 전체 목차
 
 > **24부 + 부록 A\~N + 에필로그 · 100개 챕터.** 부록은 [`manuscript/part99-appendix/`](https://github.com/eremes81/game-design-ai-practice/tree/main/manuscript/part99-appendix), 판권지는 [`manuscript/_colophon.md`](https://github.com/eremes81/game-design-ai-practice/blob/main/manuscript/_colophon.md).
