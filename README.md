@@ -28,7 +28,7 @@
 
 | 항목 | 값 |
 |---|---|
-| 저자 | 이민수 (Minsoo Lee) |
+| 저자 | 이민수 (Minsoo Lee) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
 | 출판 | 부크크(BOOKK) · 종이책(흑백) |
 | ISBN | 979-11-12-21479-9 |
 | 출간일 | 2026-06-11 |
