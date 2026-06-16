@@ -5,6 +5,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://github.com/eremes81/game-design-ai-practice/blob/main/LICENSE)
 [![ISBN](https://img.shields.io/badge/ISBN-979--11--12--21479--9-blue.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 [![부크크에서 구매](https://img.shields.io/badge/BOOKK-%EC%A2%85%EC%9D%B4%EC%B1%85%20%EA%B5%AC%EB%A7%A4-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
+[![부크크 PDF 전자책](https://img.shields.io/badge/BOOKK-PDF_eBook_%E2%82%A915%2C000-f59e0b.svg)](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)
 
 **🌐 언어판:** **한국어 — 원서** · [English — AI Workflow for Game Designers](https://github.com/eremes81/game-design-ai-practice-en) · [日本語 — ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja)
 
@@ -29,13 +30,13 @@
 | 항목 | 값 |
 |---|---|
 | 저자 | 이민수 (Minsoo Lee) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
-| 출판 | 부크크(BOOKK) · 종이책(흑백) |
-| ISBN | 979-11-12-21479-9 |
+| 출판 | 부크크(BOOKK) · 종이책(흑백) · PDF 전자책 |
+| ISBN | 979-11-12-21479-9 (종이책) |
 | 출간일 | 2026-06-11 |
 | 분량 | 876쪽 · 24부 + 부록 A\~N + 에필로그 |
-| 구매 | **[부크크 서점에서 보기](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** |
+| 구매 | **[종이책 ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF 전자책 ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** |
 
-종이책 구매는 위 부크크 링크에서 가능합니다. 이 저장소는 같은 책의 **한국어판 원고(마크다운 소스)**를 라이선스에 따라 공개한 것입니다.
+종이책(₩61,600)과 PDF 전자책(₩15,000) 모두 부크크에서 구매할 수 있습니다. 이 저장소는 같은 책의 **한국어판 원고(마크다운 소스)**를 라이선스에 따라 공개한 것입니다.
 
 ## 🎁 출시 기념 할인 (영문판 Leanpub)
 
