@@ -5,6 +5,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://github.com/eremes81/game-design-ai-practice/blob/main/LICENSE)
 [![ISBN](https://img.shields.io/badge/ISBN-979--11--12--21479--9-blue.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 [![부크크에서 구매](https://img.shields.io/badge/BOOKK-%EC%A2%85%EC%9D%B4%EC%B1%85%20%EA%B5%AC%EB%A7%A4-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
+[![유페이퍼 전자책](https://img.shields.io/badge/%EC%9C%A0%ED%8E%98%EC%9D%B4%ED%8D%BC-EPUB%20%E2%82%A915%2C000-6f42c1.svg)](https://eremes.upaper.kr/content/1217657)
 [![부크크 PDF 전자책](https://img.shields.io/badge/BOOKK-PDF_eBook_%E2%82%A915%2C000-f59e0b.svg)](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)
 
 **🌐 언어판:** **한국어 — 원서** · [English — AI Workflow for Game Designers](https://github.com/eremes81/game-design-ai-practice-en) · [日本語 — ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja) · [ไทย](https://github.com/eremes81/game-design-ai-practice-th) · [Bahasa Indonesia](https://github.com/eremes81/game-design-ai-practice-id) · [简体中文](https://github.com/eremes81/game-design-ai-practice-zh-hans) · [繁體中文](https://github.com/eremes81/game-design-ai-practice-zh-hant)
@@ -30,11 +31,11 @@
 | 항목 | 값 |
 |---|---|
 | 저자 | 이민수 (Minsoo Lee) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
-| 출판 | 부크크(BOOKK) · 종이책(흑백) · PDF 전자책 |
+| 출판 | 부크크(BOOKK) · 종이책(흑백) · PDF 전자책 / 유페이퍼 · EPUB 전자책(2026-09-05 판매 개시) |
 | ISBN | 979-11-12-21479-9 (종이책) |
 | 출간일 | 2026-06-11 |
 | 분량 | 876쪽 · 24부 + 부록 A\~N + 에필로그 |
-| 구매 | **[종이책 ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF 전자책 ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** |
+| 구매 | **[종이책 ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF 전자책 ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** · **[EPUB 전자책 ₩15,000 (유페이퍼)](https://eremes.upaper.kr/content/1217657)** |
 
 종이책(₩61,600)과 PDF 전자책(₩15,000) 모두 부크크에서 구매할 수 있습니다. 이 저장소는 같은 책의 **한국어판 원고(마크다운 소스)**를 라이선스에 따라 공개한 것입니다.
 
