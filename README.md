@@ -7,6 +7,7 @@
 [![부크크에서 구매](https://img.shields.io/badge/BOOKK-%EC%A2%85%EC%9D%B4%EC%B1%85%20%EA%B5%AC%EB%A7%A4-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 [![유페이퍼 전자책](https://img.shields.io/badge/%EC%9C%A0%ED%8E%98%EC%9D%B4%ED%8D%BC-EPUB%20%E2%82%A915%2C000-6f42c1.svg)](https://eremes.upaper.kr/content/1217657)
 [![부크크 PDF 전자책](https://img.shields.io/badge/BOOKK-PDF_eBook_%E2%82%A915%2C000-f59e0b.svg)](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)
+[![위키독스](https://img.shields.io/badge/%EC%9C%84%ED%82%A4%EB%8F%85%EC%8A%A4-%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%AC%B4%EB%A3%8C%20%EC%9D%BD%EA%B8%B0-1f8b4c.svg)](https://wikidocs.net/book/20216)
 
 **🌐 언어판:** **한국어 — 원서** · [English — AI Workflow for Game Designers](https://github.com/eremes81/game-design-ai-practice-en) · [日本語 — ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja) · [ไทย](https://github.com/eremes81/game-design-ai-practice-th) · [Bahasa Indonesia](https://github.com/eremes81/game-design-ai-practice-id) · [简体中文](https://github.com/eremes81/game-design-ai-practice-zh-hans) · [繁體中文](https://github.com/eremes81/game-design-ai-practice-zh-hant)
 
@@ -41,7 +42,7 @@
 
 ## 🎁 출시 기념 할인 (영문판 Leanpub)
 
-> **[👉 LAUNCH30 쿠폰으로 영문판 $13.30에 구매](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30)** — 정가 $19에서 30% 할인 · 무제한 · 만료 없음
+> **[👉 LAUNCH30 쿠폰으로 영문판 \$13.30에 구매](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30)** — 정가 \$19에서 30% 할인 · 무제한 · 만료 없음
 
 ## 전체 목차
 
