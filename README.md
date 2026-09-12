@@ -11,6 +11,11 @@
 
 **🌐 언어판:** **한국어 — 원서** · [English — AI Workflow for Game Designers](https://github.com/eremes81/game-design-ai-practice-en) · [日本語 — ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja) · [ไทย](https://github.com/eremes81/game-design-ai-practice-th) · [Bahasa Indonesia](https://github.com/eremes81/game-design-ai-practice-id) · [简体中文](https://github.com/eremes81/game-design-ai-practice-zh-hans) · [繁體中文](https://github.com/eremes81/game-design-ai-practice-zh-hant)
 
+> 🧰 **함께 쓰는 도구 — [하네스 스타터 키트](https://github.com/eremes81/harness-starter-kit)**
+> 이 책 1.3(메모리·권한·세팅)·21부(자가 개선)·24부(운영)에서 다루는 **메모리·훅·회고 구조를 폴더째 받아 바로 돌려볼 수 있게** 묶은 최소 구성입니다.
+> 저자의 다른 책(직장인 대상)의 부록으로 만든 것이지만, 뼈대는 같습니다. MIT 라이선스.
+
+
 <img src="https://raw.githubusercontent.com/eremes81/game-design-ai-practice/main/assets/cover.png" alt="표지" width="320">
 
 24년 차 게임 기획자이자 디자인 디렉터가, 생성형 AI(Claude Code)를 **매일의 실무**에 들이는 법을 정리한 실전 안내서입니다. 이론이나 전망이 아니라 설치·계정·요금 같은 첫 화면부터 시스템 설계·전투·내러티브·레벨·밸런스·UX·라이브 운영, 그리고 회의록을 결정으로 바꾸기·검증 게이트·비용 관리·저작권까지, 한 작업을 손으로 끝까지 따라갈 수 있게 묶었습니다.
