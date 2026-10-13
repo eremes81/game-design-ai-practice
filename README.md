@@ -43,6 +43,7 @@
 | 분량 | 876쪽 · 24부 + 부록 A\~N + 에필로그 |
 | 구매 | **[종이책 ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF 전자책 ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** · **[EPUB 전자책 ₩15,000 (유페이퍼)](https://eremes.upaper.kr/content/1217657)** |
 | 전자책 서점 | PDF — [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=397211152) · [예스24](https://www.yes24.com/product/goods/192113087) / EPUB — [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=402465693) · [예스24](https://www.yes24.com/product/goods/196285626) · [교보문고](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013563286) |
+| 저자의 다른 책 | [『직장인을 위한 AI 업무 설계의 기술』](https://www.yes24.com/product/goods/196815993) (한빛미디어, 2026) |
 
 종이책(₩61,600)과 PDF 전자책(₩15,000) 모두 부크크에서 구매할 수 있습니다. 이 저장소는 같은 책의 **한국어판 원고(마크다운 소스)**를 라이선스에 따라 공개한 것입니다.
 
