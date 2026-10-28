@@ -11,6 +11,8 @@
 
 **🌐 언어판:** **한국어 — 원서** · [English — AI Workflow for Game Designers](https://github.com/eremes81/game-design-ai-practice-en) · [日本語 — ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja) · [ไทย](https://github.com/eremes81/game-design-ai-practice-th) · [Bahasa Indonesia](https://github.com/eremes81/game-design-ai-practice-id) · [简体中文](https://github.com/eremes81/game-design-ai-practice-zh-hans) · [繁體中文](https://github.com/eremes81/game-design-ai-practice-zh-hant)
 
+📢 두 번째 책 『직장인을 위한 AI 업무 설계의 기술』(한빛미디어) 저자 인터뷰가 공개됐습니다 → https://www.youtube.com/watch?v=v8ygfpAAVQM
+
 > 🧰 **함께 쓰는 도구 — [하네스 스타터 키트](https://github.com/eremes81/harness-starter-kit)**
 > 이 책 1.3(메모리·권한·세팅)·21부(자가 개선)·24부(운영)에서 다루는 **메모리·훅·회고 구조를 폴더째 받아 바로 돌려볼 수 있게** 묶은 최소 구성입니다.
 > 저자의 다른 책(직장인 대상)의 부록으로 만든 것이지만, 뼈대는 같습니다. MIT 라이선스.
