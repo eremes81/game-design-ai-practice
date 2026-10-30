@@ -38,7 +38,8 @@
 
 | 항목 | 값 |
 |---|---|
-| 저자 | 이민수 (Minsoo Lee) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
+| 저자 | 이민수 (Minsoo Lee) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) · 조지희 (Jihee Jo) |
+| 검수 | 조지희 (Jihee Jo) |
 | 출판 | 부크크(BOOKK) · 종이책(흑백) · PDF 전자책 / 유페이퍼 · EPUB 전자책(2026-09-05 판매 개시) |
 | ISBN | 979-11-12-21479-9 (종이책) |
 | 출간일 | 2026-06-11 |
@@ -234,9 +235,9 @@
 
 이 저작물은 **[CC BY-NC-SA 4.0](https://github.com/eremes81/game-design-ai-practice/blob/main/LICENSE)** (저작자표시-비영리-동일조건변경허락)에 따라 이용할 수 있습니다.
 
-- 비영리 목적의 공유·번역·각색은 원저자(이민수 · Minsoo Lee)와 출처를 표시하면 허용합니다.
+- 비영리 목적의 공유·번역·각색은 원저자(이민수 · Minsoo Lee, 조지희 · Jihee Jo)와 출처를 표시하면 허용합니다.
 - 상업적 이용은 저자의 별도 허락이 필요합니다.
 
 일부 예시용 래스터 이미지 참조(예: `char_skill_ui.png`)는 원본 없이 자리 표시만 남아 깨진 이미지로 보일 수 있습니다 — 정식 출간본(PDF/종이책)에서는 해당 자리가 채워져 있습니다.
 
-ⓒ 이민수 2026
+ⓒ 이민수 · 조지희 2026
