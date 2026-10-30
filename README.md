@@ -9,6 +9,8 @@
 [![부크크 PDF 전자책](https://img.shields.io/badge/BOOKK-PDF_eBook_%E2%82%A915%2C000-f59e0b.svg)](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)
 [![위키독스](https://img.shields.io/badge/%EC%9C%84%ED%82%A4%EB%8F%85%EC%8A%A4-%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EB%AC%B4%EB%A3%8C%20%EC%9D%BD%EA%B8%B0-1f8b4c.svg)](https://wikidocs.net/book/20216)
 
+**📖 웹에서 편하게 읽기:** [https://eremes81.github.io/game-design-ai-practice/](https://eremes81.github.io/game-design-ai-practice/)
+
 **🌐 언어판:** **한국어 — 원서** · [English — AI Workflow for Game Designers](https://github.com/eremes81/game-design-ai-practice-en) · [日本語 — ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja) · [ไทย](https://github.com/eremes81/game-design-ai-practice-th) · [Bahasa Indonesia](https://github.com/eremes81/game-design-ai-practice-id) · [简体中文](https://github.com/eremes81/game-design-ai-practice-zh-hans) · [繁體中文](https://github.com/eremes81/game-design-ai-practice-zh-hant)
 
 📢 두 번째 책 『직장인을 위한 AI 업무 설계의 기술』(한빛미디어) 저자 인터뷰가 공개됐습니다 → https://www.youtube.com/watch?v=v8ygfpAAVQM
